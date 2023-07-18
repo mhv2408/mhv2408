@@ -3,9 +3,9 @@
 
 - 🌱 I’m currently learning **Spring Boot**
 
-- 💬 Ask me about **Operating System, Spring, Django**
+- 💬 Ask me about **Operating System, Spring, Django.**
 
-- 📫 How to reach me **mhv2408@gmail.com**
+- 📫 Reach me at **vmirthin@asu.edu**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
