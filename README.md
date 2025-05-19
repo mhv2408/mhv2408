@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Harsha Vardhan Mirthinti</h1>
 <h3 align="center">Graduate Student in Computer Science at Arizona State University</h3>
 
-- 🌱 I’m currently learning **Spring Boot**
+- 🌱 I’m currently learning **GoLang**
 
-- 💬 Ask me about **Operating System, Spring, Django.**
+- 💬 Ask me about **Backend Development, GOlang, and  Django.**
 
 - 📫 Reach me at **vmirthin@asu.edu**
 
